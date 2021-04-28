@@ -1,0 +1,26 @@
+#navbar-custome {
+  background-color: #050505;
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
+  min-height: 75px;
+}
+
+#navbar-custome .navbar-brand {
+  color: #fff;
+  height: 70px;
+}
+
+#navbar-custome .navbar-brand img {
+  height: 100%;
+}
+
+#navbar-custome .btn-outline-success {
+  color: #ffd700;
+  border-color: #ffd700;
+}
+
+.form-control:focus {
+  border-color: #ffd700;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #ffd70038;
+}

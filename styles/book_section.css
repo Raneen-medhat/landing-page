@@ -1,0 +1,15 @@
+#book_section {
+  background-color: #080203;
+  padding: 50px 0;
+}
+#book_section .row {
+  justify-content: center;
+  align-items: center;
+  color: #d3cdcd;
+}
+#book_section .row .book {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  height: 300px;
+}
