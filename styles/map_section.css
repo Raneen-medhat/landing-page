@@ -1,7 +1,7 @@
 #map_section {
   height: 700px;
   background: linear-gradient(0deg, rgb(11 3 5), rgb(11 3 5 / 76%)),
-    url(./../assets/topo.svg);
+    url(./../assets/topo.png);
   background-color: #000000;
   background-repeat: no-repeat;
   background-position: initial;
